@@ -3,4 +3,5 @@
 githubkey
 githubkey.pub
 db.sqlite3
-denv
+denv/
+
